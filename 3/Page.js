@@ -1,4 +1,4 @@
-function sayHello(name) { //يبعت متغير اسمو نييم
+function sayHello(name) { 
     window.lbl.innerHTML = "Hello" + name; //no value.
 }
 
@@ -7,14 +7,14 @@ function sayHello(name) { //يبعت متغير اسمو نييم
 function sayHello2(name, textbox) {
     window.lbl.innerHTML = "Hello" + name;
     textbox.value = "Done!";
-    // ارسال عنصر كامل 
 }
 
 //metod 3 
 
-function showInfo(id, name, address= "rinkeby") { //تثبيت القيمة وتبقى في الاخر بين الاقواس
+function showInfo(id, name, address= "rinkeby") { 
     var msg = "ID:" + id 
     + "<br>Name: " + name 
     + "<br>Address: " + address;
     window.lbl.innerHTML = msg;
+
 }
