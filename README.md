@@ -1,44 +1,18 @@
-## Om detta repository
+# JavaScript
 
-Detta repository innehåller JavaScript-projekt och övningar som demonstrerar webbutveckling med HTML och JavaScript. Projekten är organiserade i numrerade mappar som representerar olika övningar och koncept.
+JavaScript and HTML exercises. The folders are numbered and go from basic to more advanced.
 
-## Projektstruktur
+## Structure
 
-Repositoryt är organiserat i progressiva övningsmoduler:
+- `1/` - basic JavaScript syntax, HTML structure, first interactivity
+- `2/` - DOM manipulation, event handling, user input
+- `3/` - `Page.html` and `Page.js`, a small page that connects HTML and JavaScript
 
-### 📂1/
-Den första övningsmodulen som täcker:
-- Grundläggande JavaScript-syntax
-- HTML-struktur
-- Introduktion till webbutveckling
-- Grundläggande interaktivitet
+## Getting started
 
-### 📂2/
-Den andra övningsmodulen som bygger vidare på:
-- Mer avancerade JavaScript-koncept
-- DOM-manipulation
-- Event handling
-- Användarinteraktion
+You only need a web browser and a text editor. Open the HTML files in the browser.
 
-### 📂3/
-Den tredje övningsmodulen som innehåller:
-- **Page.html** (592 bytes) - HTML-struktur och layout
-- **Page.js** (412 bytes) - JavaScript-funktionalitet och logik
-- Integration mellan HTML och JavaScript
-- Praktiska webbutvecklingsexempel
+## Technology
 
-## Teknologi
-
-- **HTML:** 3,456 bytes (79.3%)
-- **JavaScript:** 902 bytes (20.7%)
-- **Total kod:** ~4.4 KB
-- **Utvecklingsperiod:** Oktober 2025 - Pågående
-
-## Komma igång
-
-### Förutsättningar
-
-För att köra dessa projekt behöver du:
-
-- **Webbläsare** (Chrome, Firefox, Safari, Edge)
-- **Textredigerare** (VS Code, Sublime Text, Atom)
+- HTML and JavaScript
+- Period: October 2025 - ongoing
